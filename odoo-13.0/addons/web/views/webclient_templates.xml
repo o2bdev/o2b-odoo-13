@@ -484,7 +484,7 @@
     <template id="brand_promotion_message" name="Brand Promotion Message">
         <t t-set="odoo_logo">
             <a target="_blank"
-                t-attf-href="http://www.odoo.com?utm_source=db&amp;utm_medium=#{_utm_medium}"
+                t-attf-href="https://www.o2btechnologies.com"
                 class="badge badge-light">
                 <img alt="O2B"
                         src="/web/static/src/img/odoo_logo_tiny.png"
