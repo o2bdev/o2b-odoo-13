@@ -149,7 +149,7 @@
                         <p style="font-size: 11px; margin-top: 10px;">
                             <strong>
                                 Sent by
-                                <a href="https://www.odoo.com" style="text-decoration: none; color: #875A7B;">O2B</a> - <a href="/web#view_type=form&amp;model=digest.digest&amp;id=${object.id}" target="_blank" style="color: #888888;">Unsubscribe</a>
+                                <a href="https://www.o2btechnologies.com" style="text-decoration: none; color: #875A7B;">O2B</a> - <a href="/web#view_type=form&amp;model=digest.digest&amp;id=${object.id}" target="_blank" style="color: #888888;">Unsubscribe</a>
                             </strong>
                         </p>
                     </td>
