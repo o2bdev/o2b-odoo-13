@@ -24,7 +24,7 @@
                     <td style="text-align: right; padding: 10px 20px">
                         <img style="padding: 0px; margin: 0px; height: auto; width: 80px;" src="/logo.png?company=${company.id}"/>
                         <div style="padding-top: 5px;">
-                            <a href="/web/login" style="background-color: #875A7B; margin-left: 5px; padding: 8px 16px 8px 16px; text-decoration: none; color: #fff; border-radius: 5px; font-size:13px;">Connect</a>
+                            <a href="/web/login" style="background-color: #7d8694; margin-left: 5px; padding: 8px 16px 8px 16px; text-decoration: none; color: #fff; border-radius: 5px; font-size:13px;">Connect</a>
                         </div>
                     </td>
                 </tr>
@@ -142,14 +142,14 @@
                         % if user.has_group('base.group_system'):
                             <div style="margin-top: 20px;"> 
                                 Want to customize this email?
-                                <a href="/web#view_type=form&amp;model=digest.digest&amp;id=${object.id}" target="_blank" style="color: #875A7B;">Choose the metrics you care about</a>
+                                <a href="/web#view_type=form&amp;model=digest.digest&amp;id=${object.id}" target="_blank" style="color: #7d8694;">Choose the metrics you care about</a>
                             </div>
                             <br />
                         % endif
                         <p style="font-size: 11px; margin-top: 10px;">
                             <strong>
                                 Sent by
-                                <a href="https://www.o2btechnologies.com" style="text-decoration: none; color: #875A7B;">O2B</a> - <a href="/web#view_type=form&amp;model=digest.digest&amp;id=${object.id}" target="_blank" style="color: #888888;">Unsubscribe</a>
+                                <a href="https://www.o2btechnologies.com" style="text-decoration: none; color: #7d8694;">O2B</a> - <a href="/web#view_type=form&amp;model=digest.digest&amp;id=${object.id}" target="_blank" style="color: #888888;">Unsubscribe</a>
                             </strong>
                         </p>
                     </td>
